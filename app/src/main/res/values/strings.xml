@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TA MOTION</string>
+    <string name="msg_loading">Đang tải TA MOTION…</string>
+    <string name="msg_initializing">Khởi tạo…</string>
+    <string name="msg_loading_wasm">Đang tải mô-đun WebAssembly…</string>
+    <string name="msg_init_runtime">Đang khởi tạo môi trường chạy…</string>
+    <string name="msg_start_ui">Đang khởi động giao diện và vẽ…</string>
+    <string name="err_start_title">TA MOTION không thể khởi động:</string>
+    <string name="btn_retry">Thử lại</string>
+    <string name="btn_clean_start">Khởi động sạch</string>
+    <string name="btn_restart">Khởi động lại TA MOTION</string>
+    <string name="msg_renderer_crashed">Trình xử lý đồ họa đã bị đặt lại hoặc bộ nhớ được hệ thống thu hồi.</string>
+    <string name="import_title">Nhập phương tiện hoặc dự án</string>
+    <string name="app_ready">Giao diện vẽ của TA MOTION đã sẵn sàng và đang chạy!</string>
+</resources>
